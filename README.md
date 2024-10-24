@@ -1,6 +1,5 @@
-# Taller3
+# Taller3 Paulo Bustamante y Emilio Cueva
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
-* Integrantes: Paulo Bustamante y Emilio Cueva
 
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
